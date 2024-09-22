@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Serendipity565</h1>
 <h3 align="center">A passionate backend developer 👨‍💻 from China 🚀</h3>
 
-- 🔭 I’m currently working at [CCNU](https://www.ccnu.edu.cn/)
+- 🔭 I’m currently studying at [CCNU](https://www.ccnu.edu.cn/)
 
 - 🌱 I’m currently learning **Go** and **Python** 
 
