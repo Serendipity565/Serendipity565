@@ -3,21 +3,19 @@
 
 - 🔭 I’m currently working at [CCNU](https://www.ccnu.edu.cn/)
 
-- 🌱 I’m currently learning **Go** and **Python**  
+- 🌱 I’m currently learning **Go** and **Python** 
 
-- ❓ Ask me anything related to **MERN** stack and related technologies  
+- 🌐 Check out my blog: [Serendipity's Blog](https://serendipity565.github.io/)
 
-- ⚡ Fun fact: I prefer **tabs** over spaces 😄
+- ❓ Feel free to ask me any questions related to **Python** and related technologies.
 
----
+- ⚡ Fun fact: I prefer **object-oriented programming** because I have no objects! 🤷‍♂️
 
-### ✨ The number of ***VISITORS*** (including myself 🤔) ✨
+## ✨ The number of ***VISITORS*** (including myself 🤔) ✨
 
 <p align="center">
   <img src="https://profile-counter.glitch.me/Serendipity565/count.svg" alt="Visitor Count" />
 </p>
-
----
 
 ## 📊 GitHub Stats
 
@@ -30,11 +28,11 @@
   </a>
 </p>
 
----
+## 🌟 GitHub Activity Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Serendipity565&theme=github-light)
 
 ## 📝 My Blog: [Serendipity's Blog](https://serendipity565.github.io/)
-
----
 
 ### ⚡ ***Skill Set*** ⚡
 
@@ -49,9 +47,3 @@
   <img src="https://img.shields.io/badge/MySQL-ff99ff?style=for-the-badge&logo=mysql&logoColor=fff" alt="MySQL" />
   <img src="https://img.shields.io/badge/Redis-ffb3ff?style=for-the-badge&logo=redis&logoColor=fff" alt="Redis" />
 </p>
-
----
-
-## 🌟 GitHub Activity Graph
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Serendipity565&theme=github-light)
