@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently studying at [CCNU](https://www.ccnu.edu.cn/)
 
-- 🌱 I’m currently learning **Go** and **Python** 
+- 🌱 I’m currently learning **Go** and **Python**
 
 - 🌐 Check out my blog: [Serendipity's Blog](https://serendipity565.github.io/)
 
@@ -11,20 +11,14 @@
 
 - ⚡ Fun fact: I prefer **object-oriented programming** because I have no objects! 🤷‍♂️
 
-## ✨ The number of ***VISITORS*** (including myself 🤔) ✨
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/Serendipity565/count.svg" alt="Visitor Count" />
-</p>
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/Serendipity565">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Serendipity565&show_icons=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <a href="https://github.com/Serendipity565/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats-serendipity654s-projects.vercel.app/api?username=Serendipity565&show_icons=true&count_private=true" />
   </a>
   <a href="https://github.com/Serendipity565">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Serendipity565&layout=compact" alt="Top Languages" />
+    <img height="180em" src="https://github-readme-stats-serendipity654s-projects.vercel.app/api/top-langs/?username=Serendipity565&layout=compact" alt="Top Languages" />
   </a>
 </p>
 
