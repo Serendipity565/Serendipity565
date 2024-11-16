@@ -5,7 +5,7 @@
 
 - 🌱 I'm currently learning **Go** and **Python**
 
-- 🌐 Check out my blog: Site 1:[Serendipity's Blog](https://serendipity565.github.io/);Site 2:[Serendipity's Blog](https://serendipity565.vercel.app/)
+- 🌐 Check out my blog: Site 1:[Serendipity's Blog](https://serendipity565.github.io/) ; Site 2:[Serendipity's Blog](https://serendipity565.vercel.app/)
 
 - ❓ Feel free to ask me any questions related to **Python** and related technologies.
 
