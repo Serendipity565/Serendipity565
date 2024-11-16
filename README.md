@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Serendipity565</h1>
 <h3 align="center">A passionate backend developer 👨‍💻 from China 🚀</h3>
 
-- 🔭 I’m currently studying at [CCNU](https://www.ccnu.edu.cn/)
+- 🔭 I'm currently studying at [CCNU](https://www.ccnu.edu.cn/)
 
-- 🌱 I’m currently learning **Go** and **Python**
+- 🌱 I'm currently learning **Go** and **Python**
 
-- 🌐 Check out my blog: [Serendipity's Blog](https://serendipity565.github.io/)
+- 🌐 Check out my blog: Site 1:[Serendipity's Blog](https://serendipity565.github.io/);Site 2:[Serendipity's Blog](https://serendipity565.vercel.app/)
 
 - ❓ Feel free to ask me any questions related to **Python** and related technologies.
 
