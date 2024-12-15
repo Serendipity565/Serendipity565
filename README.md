@@ -15,10 +15,10 @@
 
 <p align="center">
   <a href="https://github.com/Serendipity565/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats-serendipity654s-projects.vercel.app/api?username=Serendipity565&show_icons=true&count_private=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Serendipity565&show_icons=true&theme=default&count_private=true" />
   </a>
   <a href="https://github.com/Serendipity565">
-    <img height="180em" src="https://github-readme-stats-serendipity654s-projects.vercel.app/api/top-langs/?username=Serendipity565&layout=compact" alt="Top Languages" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Serendipity565&hide_progress=true" />
   </a>
 </p>
 
