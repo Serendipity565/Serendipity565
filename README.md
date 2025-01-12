@@ -41,6 +41,3 @@
   <img src="https://img.shields.io/badge/MySQL-ff99ff?style=for-the-badge&logo=mysql&logoColor=fff" alt="MySQL" />
   <img src="https://img.shields.io/badge/Redis-ffb3ff?style=for-the-badge&logo=redis&logoColor=fff" alt="Redis" />
 </p>
-
-
-2233
